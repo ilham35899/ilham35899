@@ -4,7 +4,7 @@
 
 | Sosial Media | ID |                                 
 | ----------- | ----------- |                         
-| Instagram | @https://www.instagram.com/wim35899/ |                              
+| Instagram | ### My Great Heading {#wim35899} |                              
 | Paragraph | Tidak ada aja udah |                    
 
 
