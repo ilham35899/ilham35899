@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wibowo Ilham Munandar
 - 📫 How to reach me wibowoilham35899@gmail.com
 
-| Syntax | Description |
+| Sosial Media | ID |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Instagram | wim35899 |
+| Paragraph | Tidak ada aja udah |
